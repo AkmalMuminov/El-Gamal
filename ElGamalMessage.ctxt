@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ElGamalMessage
+comment0.text=\r\n\ ElGamalMessage.java\ -\ representation\ of\ a\ message\ encrypted\ using\ ElGamal\r\n
+comment1.params=r\ t
+comment1.target=ElGamalMessage(java.math.BigInteger,\ java.math.BigInteger)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

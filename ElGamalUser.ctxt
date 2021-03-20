@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ElGamalUser
+comment1.params=
+comment1.target=ElGamalUser()
+comment2.params=m\ recipient
+comment2.target=ElGamalMessage\ encrypt(java.lang.String,\ ElGamalUser)
+comment3.params=mes
+comment3.target=java.lang.String\ decrypt(ElGamalMessage)
+numComments=4
